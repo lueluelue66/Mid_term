@@ -1,0 +1,10 @@
+setup.py
+C:/Users/JM/Desktop/neurpj/pjmid/efrcnn/support/src/vision.cpp
+C:/Users/JM/Desktop/neurpj/pjmid/efrcnn/support/src/cpu/ROIAlign_cpu.cpp
+C:/Users/JM/Desktop/neurpj/pjmid/efrcnn/support/src/cpu/nms_cpu.cpp
+C:/Users/JM/Desktop/neurpj/pjmid/efrcnn/support/src/cuda/ROIAlign_cuda.cu
+C:/Users/JM/Desktop/neurpj/pjmid/efrcnn/support/src/cuda/nms.cu
+support.egg-info/PKG-INFO
+support.egg-info/SOURCES.txt
+support.egg-info/dependency_links.txt
+support.egg-info/top_level.txt
