@@ -66,8 +66,8 @@ http://host.robots.ox.ac.uk/pascal/VOC/voc2007/index.html
         <tr>
             <th>Backbone</th>
             <th>GPU</th>
-            <th>#GPUs</th>
-            <th>#Batches/GPU</th>
+            <th>GPUs</th>
+            <th>Batches/GPU</th>
             <th>Training Speed (FPS)</th>
             <th>Inference Speed (FPS)</th>
             <th>mAP</th>
